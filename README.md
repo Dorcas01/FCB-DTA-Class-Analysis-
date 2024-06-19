@@ -31,4 +31,4 @@ Data was imported into Power BI via web - Google sheet
 The quality of the data was checked to ensure more accurate result. 
 
 ## Data Visualization 
-![](Capture 1.jpg)
+![Data Visualization](<Capture 1.PNG>)
